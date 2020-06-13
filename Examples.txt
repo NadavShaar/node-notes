@@ -1,0 +1,4 @@
+Add: app.js add --title="Elad Cohen" --body="This is another body!"
+Read: node app.js read --title="nadav shaar" 
+List: node app.js list
+Delete: node app.js delete --title="Elad Cohen"
