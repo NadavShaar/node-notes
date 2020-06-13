@@ -1,2 +1,2 @@
 # node-notes
-A notes app using nodejs
+Notes app using nodejs
