@@ -1,5 +1,5 @@
 # node-notes
-## Notes app using nodejs
+Notes app using nodejs
 
 ### How to use:
 #### Add: 
